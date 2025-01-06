@@ -2,18 +2,16 @@
 layout: cv
 title: Snow
 ---
-# 杨志鹏
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">英文名：Snow，男，36，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
+# Snow
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，36，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
 
 <div id="webaddress">
   <a href="https://lotte6.github.io" target="_blank"><i class="fas fa-home"></i> lotte6.github.io</a>
-  <!-- &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a> -->
-  &nbsp;<i class="fas fa-phone"></i> 18511070913
-  &nbsp;<a href="lotte1@163.com" target="_blank"><i class="fas fa-envelope"></i> lotte1@163.com</a>
+  <a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a><br>
 </div>
 
 ## Job Intendion
-**运维经理 运维架构师 售前工程师**
+**运维经理 运维架构师**
 
 ## Experience
 
