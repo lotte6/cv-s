@@ -18,14 +18,14 @@ title: Snow
 `2025.3-2025.7`
 **Zndigits** - *系统运维*<br>
 
-1、系统架构设计，详见：[<font color="blue">点击打开PDF</font>](https://lotte6.github.io/cv-s/media/plan.pdf){:target="_blank"}<br>
+1、服务器架构设计，详见：[<font color="blue">点击打开PDF</font>](https://lotte6.github.io/cv-s/media/plan.pdf){:target="_blank"}<br>
 2、内部后台系统开发，主要功能如下：<br>
-  1）K8s配置文件修改、备份<br>
-  2）服务器文件搜索、查看内容，修改并保留备份<br>
-  3）远程命令执行<br>
-3、优化K8s集群、合理分配资源，添加容器资源限制<br>
-4、支撑开发团队，优化deops流程，提高迭代效率<br>
-5、增加容器文件描述符监控，预警宿主机文件描述符问题，提高服务质量<br>
+&nbsp;&nbsp;1）K8s配置文件修改、备份<br>
+&nbsp;&nbsp;2）服务器文件搜索、查看内容，修改并保留备份<br>
+&nbsp;&nbsp;3）远程命令执行<br>
+3、优化K8s集群、合理分配资源，添加容器资源限制保证宿主机稳定<br>
+4、支撑开发团队，优化DEVOPS流程，提高迭代效率<br>
+5、增加所有集群容器文件描述符监控，预警宿主机文件描述符问题，提高服务质量<br>
 6、建立文档系统和使用规范，增加信息同步。<br>
 7、增加看板（类似Trello）流程，用看板系统来管理项目进度以及方案。<br>
 <br>
