@@ -18,7 +18,7 @@ title: Snow
 `2025.3-2025.7`
 **Zndigits** - *系统运维*<br>
 
-1、系统架构设计，详见：[<font color="blue">点击打开链接</font>](https://lotte6.github.io/2019/09/10/python-dnppodapi.html){:target="_blank"}<br>
+1、系统架构设计，详见：[<font color="blue">点击打开PDF</font>](https://lotte6.github.io/cv-s/media/plan.pdf){:target="_blank"}<br>
 2、内部后台系统开发，主要功能如下：<br>
   1）K8s配置文件修改、备份<br>
   2）服务器文件搜索、查看内容，修改并保留备份<br>
