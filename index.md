@@ -3,7 +3,7 @@ layout: cv
 title: Snow
 ---
 # Snow
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，36，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，37，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
 
 <div id="webaddress">
   <a href="https://lotte6.github.io" target="_blank"><i class="fas fa-home"></i> lotte6.github.io</a>
